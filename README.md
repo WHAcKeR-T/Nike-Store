@@ -1,6 +1,6 @@
 # Front end Landing Page for a Nike Store App | Vite, React JS, Tailwind CSS
 
-![NikeStore](https://github.com/WHAcKeR-T/Minigram/blob/main/Screenshot.png)
+![NikeStore](https://github.com/WHAcKeR-T/Nike-Store/blob/main/Screenshot.png)
 
 ## Live preview:
 
